@@ -13,6 +13,7 @@
 
 **YOLOv11_scSE_CARAFE** is a modified version of the existing YOLOv11 model, re-implemented with **PyTorch**.
 The motivation for this project was to enhance the model for improved small object detection.
+These codes are part of my university project **“Small Object Detection Using Deep Learning”**.
 
 ## Highlights
 

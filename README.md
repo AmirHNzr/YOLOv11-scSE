@@ -2,6 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<p align="center">
+  <img src="images/model_diagram.jpg" alt="YOLOv11 Architecture with CARAFE and scSE modules" style="max-width: 100%; height: auto;" />
+  <br>
+  <em>YOLOv11 Architecture with CARAFE and scSE modules</em>
+</p>
+
+
 ## Overview
 
 **YOLOv11_scSE_CARAFE** is a modified version of the existing YOLOv11 model, re-implemented with **PyTorch**.

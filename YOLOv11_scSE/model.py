@@ -3,6 +3,8 @@ from YOLOv11_scSE.Blocks import Conv,fuse_conv
 import torch
 import torch.nn as nn
 
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 class YOLO(torch.nn.Module):
     def __init__(self, width, depth, c3k, num_classes):
         super().__init__()
